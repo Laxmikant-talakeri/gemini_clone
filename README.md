@@ -19,7 +19,7 @@ Gemini Clone is a web application built using React.js and Vite, featuring an AI
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/gemini-clone.git
+https://github.com/Laxmikant-talakeri/gemini_clone.git
 ```
 
 2. Navigate to the project directory:
