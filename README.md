@@ -4,7 +4,7 @@
 
 # Gemini Clone
 
-Gemini Clone is a web application built using React.js and Vite, featuring an AI-powered chatbot interface integrated with the Gemini API. This project aims to provide users with a conversational interface to interact with Gemini's functionalities seamlessly.
+This project introduces a React-based web application that functions as a clone of the Google Gemini AI chatbot. It provides a user-friendly interface for interacting with the powerful Gemini model, allowing you to ask questions and receive informative responses in a conversational manner.
 
 ## Features
 
